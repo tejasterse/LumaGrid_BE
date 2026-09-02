@@ -1,0 +1,19 @@
+id,latitude,longitude,location_note,pole_type,fixture_type,installed_by,install_date,current_status
+SL-TST-001,16.0086,73.6864,Near school gate,concrete,LED,,,working
+SL-TST-002,16.0074,73.6877,Main road stretch,metal,LED,,,working
+SL-TST-003,16.0091,73.6858,Behind temple,concrete,CFL,,,working
+SL-TST-004,16.0069,73.6883,Bus stop approach,concrete,LED,,,not_working
+SL-TST-005,16.0082,73.6849,Market lane,metal,solar,,,not_working
+SL-TST-006,16.0095,73.6871,Junction turn,wood,CFL,,,reported
+SL-TST-007,16.0063,73.6866,Near panchayat office,concrete,LED,,,reported
+SL-TST-008,16.0088,73.6889,Village entrance,metal,LED,,,working
+SL-TST-009,16.0071,73.6858,Internal lane,wood,solar,,,unknown
+SL-TST-010,16.0079,73.6893,Riverside road,concrete,LED,,,working
+SL-TST-011,16.0102,73.6862,Near school gate,metal,CFL,,,not_working
+SL-TST-012,16.0058,73.6875,Main road stretch,concrete,LED,,,working
+SL-TST-013,16.0093,73.6845,Behind temple,wood,solar,,,reported
+SL-TST-014,16.0066,73.6890,Bus stop approach,concrete,LED,,,working
+SL-TST-015,16.0084,73.6837,Market lane,metal,CFL,,,not_working
+SL-TST-016,16.0100,73.6880,Junction turn,concrete,LED,,,working
+SL-TST-017,16.0055,73.6858,Near panchayat office,metal,LED,,,working
+SL-TST-018,16.0090,73.6900,Village entrance,concrete,solar,,,unknown
