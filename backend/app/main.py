@@ -23,10 +23,10 @@ Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="LightWatch MVP")
 
-# TODO: Tighten CORS allow_origins before production deployment
+# Tighten CORS allow_origins for production deployment
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://luma-grid-fe.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
